@@ -3,7 +3,7 @@
 Each notebook contains image editing methods using diffusion models.
 
 ## notebook and method:
-
+- [x] 00-img.ipynb: Preprocess images to get 512x512 images.
 - [x] 01-ptp.ipynb:  (2023 ICLR) Prompt-to-Prompt Image Editing with Cross-Attention Control 
 - [x] 02-nti.ipynb:  (2023 CVPR) Null-text Inversion for Editing Real Images using Guided Diffusion Models 
 - [x] 03-dds.ipynb:  (2023 ICCV) Delta Denoising Score 
