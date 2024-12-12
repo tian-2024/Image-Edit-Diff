@@ -1,0 +1,29 @@
+{
+    "images": [
+        {
+            "path": "images/2100-01.png",
+            "source_caption": "a photo of a cat",
+            "target_caption": "a photo of a tiger"
+        },
+        {
+            "path": "images/2100-02.png",
+            "source_caption": "a photo of a cat",
+            "target_caption": "a photo of a tiger"
+        },
+        {
+            "path": "images/2100-03.png",
+            "source_caption": "a photo of a cat",
+            "target_caption": "a photo of a tiger"
+        },
+        {
+            "path": "images/2100-04.png",
+            "source_caption": "a photo of a cat",
+            "target_caption": "a photo of a tiger"
+        },
+        {
+            "path": "images/2100-05.png",
+            "source_caption": "a photo of a cat",
+            "target_caption": "a photo of a tiger"
+        }
+    ]
+}
