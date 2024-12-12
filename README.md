@@ -4,10 +4,10 @@ Each notebook contains image editing methods using diffusion models.
 
 ## notebook and method:
 
-- [ ] 01-ptp.ipynb:  (2023 ICLR) Prompt-to-Prompt Image Editing with Cross-Attention Control 
-- [ ] 02-nti.ipynb:  (2023 CVPR) Null-text Inversion for Editing Real Images using Guided Diffusion Models 
-- [ ] 03-dds.ipynb:  (2023 ICCV) Delta Denoising Score 
-- [ ] 04-fpe.ipynb:  (2024 CVPR) Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing
+- [x] 01-ptp.ipynb:  (2023 ICLR) Prompt-to-Prompt Image Editing with Cross-Attention Control 
+- [x] 02-nti.ipynb:  (2023 CVPR) Null-text Inversion for Editing Real Images using Guided Diffusion Models 
+- [x] 03-dds.ipynb:  (2023 ICCV) Delta Denoising Score 
+- [x] 04-fpe.ipynb:  (2024 CVPR) Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing
 
 ## Reference Project
 
