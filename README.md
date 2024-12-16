@@ -1,4 +1,4 @@
-# Image-Edit-Diff
+# [Image-Edit-Diff](https://github.com/tian-2024/Image-Edit-Diff)
 
 Each notebook contains image editing methods using diffusion models.
 
