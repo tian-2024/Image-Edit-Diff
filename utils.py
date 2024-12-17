@@ -34,6 +34,20 @@ def load_image(image_path: str):
     return image
 
 
+def load_pipe(device):
+    import os
+
+    os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
+    from diffusers import StableDiffusionPipeline
+
+    pipe = StableDiffusionPipeline.from_pretrained(
+        "runwayml/stable-diffusion-v1-5",
+        safety_checker=None,
+    )
+    pipe.to(device)
+    return pipe
+
+
 def display_images(image_list, figsize=(15, 5)):
     """
     显示图像列表，每个图像显示在一排中。
@@ -62,7 +76,7 @@ def display_images(image_list, figsize=(15, 5)):
 
 
 def pil_to_tensor(
-    image: Image.Image, device: torch.device, dtype: torch.dtype
+    image: Image.Image, device: torch.device, dtype=torch.float32
 ) -> torch.Tensor:
     """
     将PIL图像转换为预处理后的张量。

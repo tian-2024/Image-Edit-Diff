@@ -1,6 +1,6 @@
 # [Diffusion-Based Text-Guided Image Editing](https://github.com/tian-2024/Image-Edit-Diff)
 
-Each notebook contains image editing methods using diffusion models.
+Each notebook contains text-guided image editing methods using diffusion models.
 
 ## Implemented Methods:
 - [x] 00-img.ipynb: Preprocess images to get 512x512 images.
