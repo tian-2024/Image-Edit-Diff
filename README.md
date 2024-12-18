@@ -1,4 +1,4 @@
-# [Diffusion-Based Text-Guided Image Editing](https://github.com/tian-2024/Image-Edit-Diff)
+# [Tidy Up Diffusion-Based Text-Guided Image Editing Methods](https://github.com/tian-2024/Image-Edit-Diff)
 
 Each notebook contains text-guided image editing methods using diffusion models.
 
