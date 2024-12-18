@@ -1,6 +1,13 @@
 # [Tidy Up Text-Guided Image Editing Methods with Diffusion Models](https://github.com/tian-2024/Image-Edit-Diff)
 
+
 Each notebook contains text-guided image editing methods using diffusion models.
+
+The code has been modified from the original version with the following improvements:
+1. Retains only the key logic for easier understanding.
+2. Common functions have been extracted into `utils.py` to provide a unified interface.
+3. Each method is organized in a separate subdirectory under `methods/`, named after the method, making the structure more intuitive and easier to navigate.
+
 
 ## Implemented Methods
 
